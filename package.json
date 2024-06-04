@@ -1,0 +1,31 @@
+{
+  "name": "alquiler",
+  "version": "1.0.0",
+  "description": "nuestros vehiculos en alquiler",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvonneCaPa/cars.git"
+  },
+  "keywords": [
+    "node",
+    "ejs",
+    "express",
+    "body-parser"
+  ],
+  "author": "Ivonne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvonneCaPa/cars/issues"
+  },
+  "homepage": "https://github.com/IvonneCaPa/cars#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
